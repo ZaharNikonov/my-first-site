@@ -1,0 +1,59 @@
+.you{
+    color: blue;
+    background-color: cadetblue;
+    height: 250px;
+}
+.body{
+    margin: 0;
+}
+.ti{
+    text-align: center;
+    height: 30px;
+}
+.item{
+    display: inline-block;
+    position: relative;
+}
+.item a{
+    text-decoration: none;
+    color: aqua;
+    background-color: blue;
+    padding:10px 20px;
+    display: inline-block;
+}
+.q{
+    position: absolute;
+    background-color: cadetblue;
+    display: none;
+}
+.item a:hover{
+    background-color: brown;
+}
+.item:hover .q{
+    display: block;
+}
+.a{
+    background-color: aquamarine;
+    width: 2000px;
+    float: left;
+}
+.lol{
+
+}
+.d h1{
+    background-color: cyan;
+    height: 50px;
+}
+.rewr p{
+text-decoration: none;
+color: darkcyan;
+background-color: mediumblue;
+padding: 20px 30px;
+display: inline-block;
+}
+.rewr p:hover{
+    background-color: darkred;
+}
+.rewr{
+    background-color: darkslateblue;
+}
